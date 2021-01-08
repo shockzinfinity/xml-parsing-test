@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CancelResponseList>
+	<CancelResponse>
+		<RequestId>code1123</RequestId>
+		<ResultCode>result codes</ResultCode>
+		<ResultMessage>result messages</ResultMessage>
+	</CancelResponse>
+	<CancelResponse>
+		<RequestId>code2223</RequestId>
+		<ResultCode>result codes</ResultCode>
+		<ResultMessage>result messages</ResultMessage>
+	</CancelResponse>
+	<CancelResponse>
+		<RequestId>code33345</RequestId>
+		<ResultCode>result codes</ResultCode>
+		<ResultMessage>result messages</ResultMessage>
+	</CancelResponse>
+	<CancelResponse>
+		<RequestId>code4444334</RequestId>
+		<ResultCode>result codes</ResultCode>
+		<ResultMessage>result messages</ResultMessage>
+	</CancelResponse>
+</CancelResponseList>
